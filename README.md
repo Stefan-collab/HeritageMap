@@ -1,2 +1,3 @@
 # HeritageMap
-Interactive r shiny map visualising world heritage 
+r-shiny app visualising world heritage on interactive map
+
